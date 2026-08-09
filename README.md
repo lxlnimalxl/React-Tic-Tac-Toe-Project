@@ -13,23 +13,8 @@
 
 ---
 
-## 📸 اسکرین‌شات‌های پروژه
 
-<div align="center">
 
-| 🎯 صفحه بازی | 👥 بازیکنان | 🏆 برنده |
-|:---:|:---:|:---:|
-| ![Game Board](https://via.placeholder.com/350x250/667eea/ffffff?text=Game+Board) | ![Players](https://via.placeholder.com/350x250/764ba2/ffffff?text=Players) | ![Winner](https://via.placeholder.com/350x250/f093fb/ffffff?text=Winner) |
-
-| 📝 لاگ بازی | 🎨 Glassmorphism Design | 📱 Responsive |
-|:---:|:---:|:---:|
-| ![Log](https://via.placeholder.com/350x250/00d9ff/ffffff?text=Game+Log) | ![Design](https://via.placeholder.com/350x250/667eea/ffffff?text=Modern+UI) | ![Mobile](https://via.placeholder.com/350x250/764ba2/ffffff?text=Mobile+View) |
-
-</div>
-
-> 💡 **نکته:** برای جایگزینی تصاویر واقعی، اسکرین‌شات‌های خود را در پوشه `screenshots/` قرار دهید و لینک‌ها را به‌روزرسانی کنید.
-
----
 
 ## ✨ ویژگی‌ها
 
@@ -139,24 +124,9 @@ react-tic-tac-toe/
 
 ## 🎨 اسکرین‌شات‌ها
 
-### 🖥️ نمای دسکتاپ
+### 🖥️ نمای گیم
 <p align="center">
   <img src="screenshots/desktop-view.png" alt="Desktop View" width="700"/>
-</p>
-
-### 📱 نمای موبایل
-<p align="center">
-  <img src="screenshots/mobile-view.png" alt="Mobile View" width="300"/>
-</p>
-
-### 🏆 صفحه برنده
-<p align="center">
-  <img src="screenshots/winner-screen.png" alt="Winner Screen" width="700"/>
-</p>
-
-### ✏️ ویرایش بازیکن
-<p align="center">
-  <img src="screenshots/edit-player.png" alt="Edit Player" width="700"/>
 </p>
 
 ---
